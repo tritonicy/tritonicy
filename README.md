@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Science student, Game Developer with 1.5 years of experience.
+Gamer for life. Passionate about Indie games.
+I strive to make better and more wholesome games.
+
+- 🔭 I’m currently working on Cartoon Officer
+- 🌱 I’m currently learning asp.net
+- 💬 Ask me about anything you want :)
+- 📫 How to reach me: https://www.instagram.com/burak.oonur/
+- 😄 Pronouns: he/him
